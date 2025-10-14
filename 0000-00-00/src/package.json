@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build --out ../dist",
+    "export": "slidev export --per-slide --dark --output ../slides.pdf"
+  },
+  "dependencies": {
+    "@slidev/theme-seriph": "^0.25.0",
+    "seedrandom": "^3.0.5",
+    "vue": "^3.4.0"
+  }
+}
