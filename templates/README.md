@@ -8,6 +8,8 @@
 └── src
     ├── components # 自定义的 vue 组件
     │   └── Counter.vue
+    ├── layouts # 自定义的布局
+    │   └── default.vue
     ├── package.json
     ├── pages # 存储被引用的 slidev
     │   └── imported-slides.md
