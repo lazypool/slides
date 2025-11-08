@@ -27,7 +27,7 @@
 将任意 Slidev 项目模板复制到项目根路径下使用
 
 ```bash
-cp -r templates/default ./0000-00-00
+cp -r templates/default ./0000-00-00 # 修改成汇报的日期
 ```
 
 ## 模板列表
